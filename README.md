@@ -23,7 +23,7 @@ mv .env.example .env
 Then, run the script, optionally with the `-r` (or `--record`) argument to record the data to an env var-supplied recording location:
 
 ```bash
-./stim.py [-r | --record]
+python3 ./stim.py [-r | --record]
 ```
 
 ## Credits
